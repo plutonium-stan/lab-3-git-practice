@@ -2,3 +2,5 @@
 Project Team Members:
 Kieran
 Changes to the readme!
+
+Changes made by jocelyn.
