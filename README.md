@@ -2,3 +2,5 @@
 
 Project team members:
 Jocelyn McHugo
+
+Changes to the readme!
