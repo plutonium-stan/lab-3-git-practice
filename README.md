@@ -12,3 +12,4 @@ Changes to the readme!
 Changes made by jocelyn.
 
 More changes!!
+Project Team Members: Haolin Yang
